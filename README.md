@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EucheriaK
 - 👀 I’m interested in cloud solutions
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m currently looking to collaborate on C programming
+- 💞️ I’m currently looking to collaborate on C and Python programming
 - 📫 How to reach me ekureva@gmail.com
 
 <!---
